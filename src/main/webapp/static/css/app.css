@@ -1,0 +1,70 @@
+body, #mainWrapper {
+	height: 70%;
+	background-color:rgb(245, 245, 245);
+}
+
+body, .form-control{
+	font-size:12px!important;
+}
+
+.floatRight{
+	float:center;
+	margin-right: 18px;
+}
+
+.has-error{
+	color:red;
+}
+
+.formcontainer{
+	background-color: #DAE8E8;
+	padding: 20px;
+}
+
+.tablecontainer{
+	padding-left: 20px;
+}
+
+.generic-container {
+  
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: #EAE7E7;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 0 30px black;
+}
+
+.custom-width {
+    width: 80px !important;
+}
+.listcontainer{
+	padding: 20px;
+	box-shadow: 0 0 10px black;
+	border-radius: 4px;
+	margin-left: 2px;
+    margin-right: 2px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+.listcontainerheader{
+	border-bottom: 1px solid #ddd;
+	background-color: #EAE7E7;
+}	
+.listcontainerdata{
+	border-bottom: 1px solid #ddd;
+}
+.transactionContainer{
+	box-shadow: 0 0 10px black;
+	border-radius: 4px;
+	margin-left: 2px;
+    margin-right: 2px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
